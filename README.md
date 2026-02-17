@@ -3,7 +3,7 @@
 I’m a senior software engineer with a focus on backend systems, developer tooling,
 and automation that removes operational friction.
 
-- Python / Django, distributed systems, containers
+- Python / Django, Elixir, distributed systems, containers
 - Product-oriented engineering, not framework chasing
 - Strong interest in performance, reliability, and system behavior under load
 
